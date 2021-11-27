@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">lab3</string>
+    <string name="app_name">App</string>
+
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="tag">Let\'s join us</string>
 </resources>
